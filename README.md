@@ -1,14 +1,14 @@
 # 🎮 Unity-game
-## Game Title: "Numen Tenebrarum"
+## 📌 Game Title: "Numen Tenebrarum"
 
 ![image](https://github.com/user-attachments/assets/a90bdda7-0a5b-45f4-b709-b51f3e8f377e)
 
-## Description:
+## 📌 Description:
 ![image](https://github.com/user-attachments/assets/79b5f862-b9eb-4526-9d9d-158bdc8e9c37)
 
 This game is a university project developed by a team of five people. In this project, I was responsible for working on the game mechanics and testing them. The entire game was written using a large amount of C# code for all its mechanics. Due to the file size, the full game cannot be included here. The game is a 2D platformer where the player wakes up as an acolyte and must collect flames in order to ignite the Great Fire.
 
-## Mechanics:
+## 📌 Mechanics:
 ![image](https://github.com/user-attachments/assets/cf53b5c0-2338-4dc4-82c4-b75fc6b3df48)
 
 First, the player can move, jump, shoot two types of fireballs, fight enemies with a fixed amount of HP, and progress through levels. The game was completed with one large level, which takes between 10 to 20 minutes to complete. A simple dialogue system was also implemented. Additionally, the game features music and sound effects for collecting items.
