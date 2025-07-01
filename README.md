@@ -1,9 +1,7 @@
 # 🎮 Unity-game
-## Game Title:
-# "Numen Tenebrarum"
+## Game Title: "Numen Tenebrarum"
 
 ![image](https://github.com/user-attachments/assets/a90bdda7-0a5b-45f4-b709-b51f3e8f377e)
-
 
 ## Description:
 ![image](https://github.com/user-attachments/assets/79b5f862-b9eb-4526-9d9d-158bdc8e9c37)
